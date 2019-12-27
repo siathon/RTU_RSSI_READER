@@ -1,0 +1,15 @@
+{
+    "flags": [
+        "--cpu=Cortex-M3"
+    ], 
+    "macros": [], 
+    "symbols": [
+        "ARM_MATH_CM3", 
+        "TRANSACTION_QUEUE_SIZE_SPI=2", 
+        "USE_FULL_LL_DRIVER", 
+        "USE_HAL_DRIVER", 
+        "__CMSIS_RTOS", 
+        "__CORTEX_M3", 
+        "__MBED_CMSIS_RTOS_CM"
+    ]
+}
